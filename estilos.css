@@ -77,33 +77,78 @@
                     }
                 
 
-                    img7{ height: 489px;
-                        width: 500px;
-                      background-image: url(img6.png);
+                    .img7{ height: 789px;
+                        width: 900px;
+                      background-image: url(img7.png);
                       float: initial;
                         background-repeat: no-repeat;
                         }
 
-                        img8{ height: 489px;
-                            width: 500px;
-                          background-image: url(img6.png);
+                        .img8{ height: 789px;
+                            width: 900px;
+                          background-image: url(img8.png);
                           float: initial;
                             background-repeat: no-repeat;
                             }
 
-                            img9{ height: 489px;
-                                width: 500px;
-                              background-image: url(img6.png);
+                            .img9{ height: 789px;
+                                width: 900px;
+                              background-image: url(img9.png);
                               float: initial;
                                 background-repeat: no-repeat;
                                 }
 
-                                img10{ height: 489px;
-                                    width: 500px;
-                                  background-image: url(img6.png);
+                                .img10{ height: 889px;
+                                    width: 900px;
+                                  background-image: url(img10.png);
                                   float: initial;
-                                    background-repeat: no-repeat;
+                                background-repeat: no-repeat;
                                     }
+                                    
+                                       .img12{ height: 889px;
+                                           width: 1000px;
+                                          background-image: url(img12.png);
+                                          float: unset;
+                                        background-repeat: no-repeat;
+                                            }
+                                            .img13{ height: 589px;
+                                                width: 10030px;
+                                               background-image: url(img13.jpg);
+                                               float: unset;
+                                             background-repeat: no-repeat;
+                                                 }
+                                                 .img14{ height: 799px;
+                                                    width: 10300px;
+                                                   background-image: url(img14.jpg);
+                                                   float: unset;
+                                                 background-repeat: no-repeat;
+                                                     }
+                                                     .img15{ height: 999px;
+                                                        width: 10400px;
+                                                       background-image: url(img15.png);
+                                                       float: unset;
+                                                     background-repeat: no-repeat;
+                                                         }
+                                                       
+                                                         .img16{ height: 409px;
+                                                            width: 1400px;
+                                                           background-image: url(img16.png);
+                                                           float: unset;
+                                                         background-repeat: no-repeat;
+                                                             }
+                                                             .img18{ height: 409px;
+                                                                width: 1400px;
+                                                               background-image: url(img18.jpeg);
+                                                               float: unset;
+                                                             background-repeat: no-repeat;
+                                                                 }
+
+                                                                 .img17{ height: 709px;
+                                                                    width: 1400px;
+                                                                   background-image: url(img17.jpeg);
+                                                                   float: unset;
+                                                                 background-repeat: no-repeat;
+                                                                     }
                    
 
 
