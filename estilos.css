@@ -150,5 +150,10 @@
                                                                  background-repeat: no-repeat;
                                                                      }
                    
-
+.imgt3{ height: 1109px;
+  width: 4322px;
+ background-image: url(imgt3.jpg);
+ float: unset;
+background-repeat: no-repeat;
+   }
 
