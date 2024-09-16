@@ -157,3 +157,19 @@
 background-repeat: no-repeat;
    }
 
+   .imgi{ 
+    height: 13339px;
+    width: 4322px;
+   background-image: url("imgen1.jpg");
+   float: left;
+  background-repeat: no-repeat;
+     }
+
+     
+   .img2{ 
+    height: 2109px;
+    width: 43322px;
+   background-image: url("imagen2\ \(1\).jpg");
+   float:left;
+  background-repeat: no-repeat;
+     }
