@@ -180,3 +180,11 @@ background-repeat: no-repeat;
      float: inherit;
     background-repeat: no-repeat;
        }
+
+       .ju1{ 
+        height: 2109px;
+        width: 43322px;
+       background-image: url("ju1.png");
+       float:left;
+      background-repeat: no-repeat;
+         }
