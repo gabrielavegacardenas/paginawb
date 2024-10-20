@@ -182,9 +182,26 @@ background-repeat: no-repeat;
        }
 
        .ju1{ 
-        height: 2109px;
-        width: 43322px;
+        height: 449px;
+        width: 2233px;
        background-image: url("ju1.png");
-       float:left;
+       float: unset;
       background-repeat: no-repeat;
          }
+    
+         .ju3{ 
+          height: 449px;
+          width: 2233px;
+         background-image: url("ju3.png");
+         float: unset;
+        background-repeat: no-repeat;
+           }
+
+               
+         .ju4{ 
+          height: 449px;
+          width: 2233px;
+         background-image: url("ju4.png");
+         float: unset;
+        background-repeat: no-repeat;
+           }
