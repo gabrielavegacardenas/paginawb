@@ -173,3 +173,10 @@ background-repeat: no-repeat;
    float:left;
   background-repeat: no-repeat;
      }
+     .gaby1{ 
+      height: 210px;
+      width: 432px;
+     background-image: url("gaby1.png");
+     float: inherit;
+    background-repeat: no-repeat;
+       }
